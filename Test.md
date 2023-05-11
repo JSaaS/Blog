@@ -1,5 +1,5 @@
 
-```
+
 ---
 name: 'My Cool Post'
 slug: 'my-cool-post'
@@ -8,9 +8,6 @@ category: ['Posts/Cool', 'Memories']
 tags: ['javascript', 'python']
 status: 'draft'
 ---
-```
-
-
 
 # Just testing
 
